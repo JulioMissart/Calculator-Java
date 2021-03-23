@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Java GUI Course:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Java_GUI_Course_jar</output-path>
+    <root id="archive" name="Java GUI Course.jar">
+      <element id="module-output" name="Calculator" />
+    </root>
+  </artifact>
+</component>
