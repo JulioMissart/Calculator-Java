@@ -12,9 +12,9 @@ import static java.lang.Math.sqrt;
 
 public class MainFrame extends JFrame implements ActionListener, KeyListener {
 
-    // MyFrame is child class while JFrame is the super or parent class, import swing.
-    // Basicamente declaramos un hijo de la clase JFrame ya definida en Java Swing, llamado MyFrame,
-    // cuyos parametros estan definidos en un constructor vacío, así al llamar a esta clase la GUI sola.
+    // MainFrame is child class while JFrame is the super or parent class, import swing.
+    // Basicamente declaramos un hijo de la clase JFrame ya definida en Java Swing, llamado MainFrame,
+    // cuyos atributos estan definidos en un constructor vacío, así al llamar a esta clase la GUI se genera sola.
 
     Border emptyBorder = BorderFactory.createEmptyBorder();
 
